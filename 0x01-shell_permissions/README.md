@@ -1,1 +1,1 @@
-Write a script that changes the group owner to school for the file hello
+Write a script that sets the mode of the file hello the same as olleh’s mode
