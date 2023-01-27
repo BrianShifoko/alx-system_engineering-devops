@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Kill the process of infinity loop
+# -f: The pattern is normally only matched against the process name
+kill "$(pgrep -f 4-to_infinity_and_beyond)"
